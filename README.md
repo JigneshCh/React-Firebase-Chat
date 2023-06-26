@@ -6,6 +6,7 @@ This is a React 18.* code with following functionality
  - HTML and CSS to clone WhatsApp chat view
  - View (Chat): https://tinyurl.com/2fnygsg7
  - View (Google Login): https://tinyurl.com/2jcyonyq
+ - View (Firestore database): https://tinyurl.com/2mz6wum8
 
 ## How to Install and Run the Project Locally:
 1. Clone the repository to your local folder of choice
