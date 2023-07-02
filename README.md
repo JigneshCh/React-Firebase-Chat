@@ -12,3 +12,9 @@ This is a React 18.* code with following functionality
 1. Clone the repository to your local folder of choice
 2. Install NPM packages -- `npm install`
 3. Start the app on your localhost -- `npm start`
+
+ ## Overview 
+
+ - Url_1: http://13.234.224.145/Jignesh-demo/React-Firebase-Chat/
+ - Url_2: http://jc-deloper.com/Jignesh-demo/React-Firebase-Chat/
+
