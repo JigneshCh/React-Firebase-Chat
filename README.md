@@ -15,6 +15,5 @@ This is a React 18.* code with following functionality
 
  ## Overview 
 
- - Url_1: http://13.234.224.145/Jignesh-demo/React-Firebase-Chat/
- - Url_2: http://jc-deloper.com/Jignesh-demo/React-Firebase-Chat/
+ - Url: http://jcwebdeveloper.com/Jignesh-demo/React-Firebase-Chat/ 
 
